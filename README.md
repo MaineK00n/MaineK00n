@@ -5,10 +5,10 @@
 I'm a university student in Japan.
 
 ## about Me
-🏫 M2 student at @ehimetakahashilab  
+🏫 M2 student at [@ehimetakahashilab](https://github.com/ehimetakahashilab)  
 ✒ research and tool development for new reconfigurable devices  
 ✒ reliability testing for VLSI  
-⚙ development of [vuls](https://github.com/future-architect/vuls) with @future-architect (part-time job)
+⚙ development of [vuls](https://github.com/future-architect/vuls) with [@future-architect](https://github.com/future-architect) (part-time job)
 
 ## Motivation
 I'm interested in software and fast computers that can easily realize better hardware.
