@@ -2,12 +2,10 @@
 
 [![twitter badge](https://img.shields.io/badge/twitter-@MaineK00n-blue?style=flat-square&logo=twitter)](https://twitter.com/MaineK00n)
 
-I'm a university student in Japan.
+I'm unemployed and living in a daze.
 
 ## about Me
-🏫 M2 student at [@ehimetakahashilab](https://github.com/ehimetakahashilab)  
 ✒ research and tool development for new reconfigurable devices  
-✒ reliability testing for VLSI  
 ⚙ development of [vuls](https://github.com/future-architect/vuls) with [@future-architect](https://github.com/future-architect) (part-time job)
 
 ## Motivation
