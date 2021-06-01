@@ -33,6 +33,7 @@ I'm interested in software and fast computers that can easily realize better har
 - 2019-6 - 2020-3 IPA未踏事業 「カスタマイズ可能なネットワーク型IDPSをFPGA実装するためのソフトウェア」 [url](https://www.ipa.go.jp/jinzai/mitou/2019/gaiyou_tn-4.html)
 - 2019 8 [Wantedly, Inc.](https://wantedlyinc.com/) summer internship infra course
 - 2020-4 - 2020-6 [Morpho, Inc.](https://www.morphoinc.com/) internship (Postponed due to COVID-19)
+- 2020-6 - Now [Future Corp.](https://www.future.co.jp/) development of [vuls](https://github.com/future-architect/vuls)
 
 ## Contact
 - Twitter: [@MaineK00n](https://twitter.com/MaineK00n)
