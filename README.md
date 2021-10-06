@@ -36,4 +36,4 @@ I'm interested in software and fast computers that can easily realize better har
 
 ## Contact
 - Twitter: [@MaineK00n](https://twitter.com/MaineK00n)
-- E-Mail: dev.pylori1229@gmail.com
+- E-Mail: mainek00n.1229@gmail.com
