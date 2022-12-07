@@ -33,6 +33,9 @@ I'm interested in software and fast computers that can easily realize better har
 - 2020-04 - 2020-06 [Morpho, Inc.](https://www.morphoinc.com/) internship (Postponed due to COVID-19)
 - 2020-06 - 2021-09 [Future Corp.](https://www.future.co.jp/) development of [vuls](https://github.com/future-architect/vuls) (part-time job)
 - 2021-10 - NOW [Future Corp.](https://www.future.co.jp/) development of [vuls](https://github.com/future-architect/vuls)
+- 2022-08 [Vuls祭り#6](https://vuls-jp.connpass.com/event/253558/) 発表
+- 2022-10 [CODE BLUE 2022 脆弱性対応で有用なSSVCやMITRE ATT&CKと、FutureVulsでの実装](https://codeblue.jp/2022/) 発表
+- 2022-11 [Black Hat MEA 2022 Arsenal](https://blackhatmea.com/speaker/norihiro-nakaoka) 発表
 
 ## Contact
 - Twitter: [@MaineK00n](https://twitter.com/MaineK00n)
